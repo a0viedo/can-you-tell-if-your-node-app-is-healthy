@@ -24,7 +24,7 @@ Here you will find some great resources to start with monitoring of Node.js appl
 - [under-pressure][under-pressure]: Measure process load with automatic handling of "Service Unavailable" plugin for Fastify.
 - [overload-protection][overload-protection]: Load detection and shedding capabilities for http, express, restify, and koa
 - [nodejs-dashboard][nodejs-dashboard]: Telemetry dashboard for node.js apps from the terminal
-- [node-clinic][node-clinic]:
+- [node-clinic][node-clinic]: Clinic diagnoses your Node.js performance issues
 
 
 [monitor-nodejs-risingstack]: https://blog.risingstack.com/monitoring-nodejs-applications-nodejs-at-scale/
