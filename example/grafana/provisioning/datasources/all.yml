@@ -1,0 +1,9 @@
+apiVersion: 1
+
+datasources:
+  - name: InfluxDB
+    type: influxdb
+    access: proxy
+    database: mydb
+    url: http://nodejs-influx-metrics:8086
+    isDefault: true

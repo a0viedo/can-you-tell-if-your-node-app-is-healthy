@@ -1,0 +1,19 @@
+{
+  "name": "metrics",
+  "version": "1.0.0",
+  "description": "Instrument metrics for your Node.js app",
+  "main": "metrics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alejandro Oviedo <alejandro.oviedo.g@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blocked": "^1.2.1",
+    "pidusage": "^2.0.16"
+  },
+  "devDependencies": {
+    "dotenv": "^6.0.0"
+  }
+}
